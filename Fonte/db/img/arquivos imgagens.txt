@@ -1,0 +1,1 @@
+todos os arquivos de imagens estarao /db/img
